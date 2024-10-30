@@ -83,5 +83,4 @@ void setAnoAbertura(struct ContaBancaria* conta, int DIA, int MES, int ANO){
     conta->AA.dia = DIA;
 }
 
-
 #endif 
